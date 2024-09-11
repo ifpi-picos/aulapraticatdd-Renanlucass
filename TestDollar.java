@@ -14,4 +14,3 @@ public class TestDollar {
     assertFalse(Money.dollar(5).equals(Money.dollar(6)));
   }
 }
-
